@@ -1,7 +1,7 @@
 
    ////////////////////////////////////////////////////////
   //               LinoBot v1.0                         //             
- //               By vikas ece     opposite wala code  //
+ //               By vikas ece                         //
 ////////////////////////////////////////////////////////
 
 //I have added the two modes for turning(normal turn or fast turn) the lfr bot
